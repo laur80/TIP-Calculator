@@ -1,0 +1,41 @@
+body {
+  height: 100%;
+  margin: 0;
+  background-color: burlywood;
+}
+.output {
+  margin-left: 700px;
+  height: 100px;
+  width: 800px;
+  margin-top: 300px;
+  align-content: center;
+  color: brown;
+  font-size: larger;
+}
+#inputButton {
+  margin-left: 700px;
+  margin-top: 30px;
+  height: 100px;
+  width: 800px;
+  display: flex;
+  align-self: center;
+  justify-self: center;
+}
+
+.input {
+  margin-right: 100px;
+  height: 50px;
+  width: 300px;
+  margin-top: 25px;
+  border-radius: 10px;
+  padding-left: 30px;
+  outline: 0;
+}
+.button {
+  outline: 0;
+  background-color: rgb(212, 133, 28);
+  padding: 40px 40px;
+  border-radius: 30%;
+  font-size: 25px;
+  color: brown;
+}
